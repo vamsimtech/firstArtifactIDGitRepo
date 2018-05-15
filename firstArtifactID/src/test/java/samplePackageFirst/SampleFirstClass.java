@@ -11,6 +11,7 @@ public class SampleFirstClass {
 	public void testData(String a,String b){
 		
 		System.out.println(a+"----"+b);	
+		System.out.println("My first change in the program");
 	}
 	
 	@DataProvider(name="data")
